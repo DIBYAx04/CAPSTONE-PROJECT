@@ -5,6 +5,7 @@
 This project is a collection of **Bash scripts** designed to automate essential **system maintenance tasks** such as backups, updates, log monitoring, and error handling.  
 All scripts can be executed **individually** or via a **menu-driven interface** for convenience and centralized management.
 
+---
 
 ## 💻 How to Install Ubuntu Terminal in Windows Using Command Prompt  
 
@@ -99,6 +100,7 @@ chmod +x *.sh
 📘 View Log File  
 ❌ Exit  
 
+---
 
 ## 🌟 Features
 
